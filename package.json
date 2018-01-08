@@ -2,8 +2,8 @@
   "name": "vuecli",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "唐向荣 <641418330@qq.com>",
-  "private": true,
+  "author": "欧阳健彬 <641418330@qq.com>",
+  "private": true, 
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
